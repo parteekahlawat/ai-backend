@@ -1,0 +1,15 @@
+happytransformer 
+flask 
+flask-cors
+transformers
+peft
+librosa
+numpy
+assemblyai
+python-dotenv
+pandas 
+pdfplumber
+python-docx
+beautifulsoup4
+kaleido
+plotly
